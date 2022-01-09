@@ -1,0 +1,21 @@
+.customer-page-bg {
+    background-color: #fafbfd;
+}
+.customer-page-buttons-bg {
+    background-color:white;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.customer-page-buttons-top {
+    /* background-color:white; */
+    /* border-radius: 5px; */
+    /* display: block; */
+    margin-bottom: 5px;
+    line-height: 5;
+}
+.customer-page-bg-top {
+    margin-bottom: 5px;
+    margin-top:5px;
+}
